@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Number Counters</string>
+    <string name="Number_Counters">Number Counters</string>
+    <string name="Save">Save</string>
+    <string name="Clear">Clear</string>
+    <string name="Zero">0</string>
+</resources>
